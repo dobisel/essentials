@@ -1,5 +1,4 @@
 ## Git commands to learn:
-``bash
 clone
 init
 add
@@ -27,4 +26,3 @@ orphan branch
 sqash
 tag
 log
-```
