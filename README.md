@@ -1,7 +1,7 @@
 # Common learning subjects
 
 ## Git
-at least these commands: [git-commands]()
+at least these commands: [git-commands](https://dobisel.com/dobisel/essentials/src/branch/master/git-commands)
 
 
 ## 10 finger typing
