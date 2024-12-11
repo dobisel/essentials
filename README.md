@@ -1,5 +1,11 @@
 # Common learning subjects
 
+- [Git](#git)
+- [Typing](#10-finger-typing)
+- [Linux](#linux)
+- [Vim](#vim)
+
+
 ## Git
 at least these commands: [git-commands](https://dobisel.com/dobisel/essentials/src/branch/master/git-commands.md)
 
