@@ -2,22 +2,22 @@
 
 - Python syntax
 - Http
-- yhttp [github.com/yhttp](github.com/yhttp)
+- yhttp [github.com/yhttp](https://github.com/yhttp)
 - TLS
 - Unix(7)
 - NginX
 - WSGI
 - TSQL
-- Postgres
+- Postgresql
 - SqlAlchemy 2
 - psycopg2
 - pytest
 - Database migration(Alembic)
 - Design patterns
 - Micro Servis programming
-- bddrest [github.com/pylover/bddrest](github.com/pylover/bddrest)
-- easycli [github.com/pylover/easycli](github.com/pylover/easycli)
-- bddcli [github.com/pylover/bddcli](github.com/pylover/bddcli)
-- python makelib [github.com/pylover/python-makelib](github.com/pylover/python-makelib)
+- bddrest [github.com/pylover/bddrest](https://github.com/pylover/bddrest)
+- easycli [github.com/pylover/easycli](https://github.com/pylover/easycli)
+- bddcli [github.com/pylover/bddcli](https://github.com/pylover/bddcli)
+- python makelib [github.com/pylover/python-makelib](https://github.com/pylover/python-makelib)
 - python coverage []()
 - Flake8
