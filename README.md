@@ -7,7 +7,7 @@
 
 
 ## Git
-at least these commands: [git-commands](https://dobisel.com/dobisel/essentials/src/branch/master/git-commands.md)
+at least these commands: [git-commands](https://github.com/dobisel/essentials/blob/master/git-commands.md)
 
 
 ## 10 finger typing
@@ -32,4 +32,4 @@ type `vimtutor` in the commandline, you can see simple vim commands to learn.
 
 
 ## Backend roadmap
-[backend-roadmap](https://dobisel.com/dobisel/essentials/src/branch/master/backend-roadmap.md)
+[backend-roadmap](https://github.com/dobisel/essentials/blob/master/backend-roadmap.md)
