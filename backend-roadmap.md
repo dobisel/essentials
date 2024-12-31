@@ -14,7 +14,7 @@
 - pytest
 - Database migration(Alembic)
 - Design patterns
-- Micro Servis programming
+- Microservice programming
 - bddrest [github.com/pylover/bddrest](https://github.com/pylover/bddrest)
 - easycli [github.com/pylover/easycli](https://github.com/pylover/easycli)
 - bddcli [github.com/pylover/bddcli](https://github.com/pylover/bddcli)
