@@ -21,3 +21,16 @@ Install a Linux os, preferably Ubuntu.
 
 ## Vim
 type `vimtutor` in the commandline, you can see simple vim commands to learn. 
+
+
+## Concepts
+- Solid principle
+- Zen of python
+
+
+## Markdown
+
+
+## Backend roadmap
+
+
