@@ -5,6 +5,7 @@
 - yhttp [github.com/yhttp](https://github.com/yhttp)
 - TLS
 - Unix(7)
+- Shell scripting, [TLDP](https://tldp.org/LDP/Bash-Beginners-Guide/html/)
 - NginX
 - WSGI
 - TSQL

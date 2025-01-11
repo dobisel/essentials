@@ -27,6 +27,17 @@ type `vimtutor` in the commandline, you can see simple vim commands to learn.
 - Solid principle
 - Zen of python
 
+## Naming
+We follow the [Nomanclature](https://en.wikipedia.org/wiki/Nomenclature) for the naming purpose.
+### Mockup data naming
+- For persons we use this names:
+  - Alice 
+  - Bob
+  - Jane
+  - Oscar
+
+- For anything rather than person names, use metasyntactic naming.
+
 
 ## Markdown
 
