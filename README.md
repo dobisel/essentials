@@ -27,6 +27,7 @@ type `vimtutor` in the commandline, you can see simple vim commands to learn.
 - Solid principle
 - Zen of python
 
+
 ## Naming
 We follow the [Nomanclature](https://en.wikipedia.org/wiki/Nomenclature) for the naming purpose.
 ### Mockup data naming
@@ -37,6 +38,17 @@ We follow the [Nomanclature](https://en.wikipedia.org/wiki/Nomenclature) for the
   - Oscar
 
 - For anything rather than person names, use metasyntactic naming.
+
+### Electronic schematic naming
+
+#### General rules:
+- Abbreviations: Capital case, i.e: BJT
+- Other words: Capitalized, i.e: Resistor, Capacitor
+
+#### Example
+
+- Part: `\w[a-zA-Z0-9\-]+`, i.e: `ESP32S3`
+- Library: `\w[a-zA-Z0-9\.-]+`, i.e: `Agrin`
 
 
 ## Markdown
