@@ -51,7 +51,7 @@ We follow the [Nomanclature](https://en.wikipedia.org/wiki/Nomenclature) for the
 
 ### Files
 
-- All ower case
+- All lowercase
 - including `.`, `-`.
 
 ### Electronic schematic naming
