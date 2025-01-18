@@ -37,7 +37,12 @@ We follow the [Nomanclature](https://en.wikipedia.org/wiki/Nomenclature) for the
   - Jane
   - Oscar
 
-- For anything rather than person names, use metasyntactic naming.
+- For anything other than person names, use metasyntactic naming.
+
+### Files
+
+- All ower case
+- including `.`, `-`.
 
 ### Electronic schematic naming
 
