@@ -28,6 +28,16 @@ type `vimtutor` in the commandline, you can see simple vim commands to learn.
 - Zen of python
 
 
+## Rules
+
+- At the start and end of every workday, update all Kanbans.
+- During meetings, should be speak on topics one by one.
+- Always take your next task from the Kanban.
+- Never ever use web applications, until don't have a stable internet
+    connection.
+- State the problem directly; if there's no problem, no suggestions are needed.
+
+
 ## Naming
 We follow the [Nomanclature](https://en.wikipedia.org/wiki/Nomenclature) for the naming purpose.
 ### Mockup data naming
